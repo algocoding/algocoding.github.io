@@ -36,3 +36,9 @@ Example
 ```
 
 `$ y=\sum_{i=1}^n g(x_i) $`
+
+
+
+:guilabel:`그림 라벨`
+
+:kbd:`shift-F`
