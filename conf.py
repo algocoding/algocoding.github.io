@@ -62,7 +62,7 @@ source_parsers = {
 master_doc = 'index'
 
 # General information about the project.
-project = 'blockchain'
+project = 'Problems'
 copyright = '2017, JongYun Jung'
 author = 'algocoding.net@gmail.com'
 
